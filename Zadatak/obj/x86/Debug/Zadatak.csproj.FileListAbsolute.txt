@@ -1,0 +1,5 @@
+C:\Users\Dragana\AppData\Local\Temporary Projects\Zadatak\bin\Debug\Zadatak.exe
+C:\Users\Dragana\AppData\Local\Temporary Projects\Zadatak\bin\Debug\Zadatak.pdb
+C:\Users\Dragana\AppData\Local\Temporary Projects\Zadatak\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dragana\AppData\Local\Temporary Projects\Zadatak\obj\x86\Debug\Zadatak.exe
+C:\Users\Dragana\AppData\Local\Temporary Projects\Zadatak\obj\x86\Debug\Zadatak.pdb

@@ -1,0 +1,7 @@
+C:\Users\Dragana\AppData\Local\Temporary Projects\Zadatak\bin\Release\Zadatak.exe
+C:\Users\Dragana\AppData\Local\Temporary Projects\Zadatak\bin\Release\Zadatak.pdb
+C:\Users\Dragana\AppData\Local\Temporary Projects\Zadatak\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Dragana\AppData\Local\Temporary Projects\Zadatak\obj\x86\Release\Zadatak.exe
+C:\Users\Dragana\AppData\Local\Temporary Projects\Zadatak\obj\x86\Release\Zadatak.pdb
+C:\Users\Dragana\documents\visual studio 2010\Projects\Zadatak\Zadatak\obj\x86\Release\Zadatak.exe
+C:\Users\Dragana\documents\visual studio 2010\Projects\Zadatak\Zadatak\obj\x86\Release\Zadatak.pdb
